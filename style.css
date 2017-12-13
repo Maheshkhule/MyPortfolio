@@ -1,0 +1,87 @@
+/*--------------css file------------------------------*/
+
+/*container-fluid section*/
+.container-fluid{
+  background:linear-gradient(to right,#03001e,#5B86E5);
+  height:auto;
+  color:white;
+  font-family:courier;
+  font-size:5vmin;
+  padding-bottom: 5vh;
+}
+.head{
+  margin-top:2em;
+  font-size:12vmin;
+}
+.quote{
+  //padding:vh;
+  margin-top:5vh;
+  font-size:5vmin;
+}  
+/*horizontal nav bar*/
+ul {
+  list-style-type: none;
+  margin-top: 3vh;
+  padding: 0vh;
+  overflow: hidden;
+  height:10vh;
+}
+li {
+  float: left;
+}
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 1px 16px;
+  text-decoration: none;   /*this removes underline*/
+}
+li a:hover {
+  background-color:#03001e;
+  color:#5B86E5;
+}
+/*container-fluid2 section*/
+.container-fluid2{
+  background:linear-gradient(to right,#2196f3,#f44336);
+  height:auto;
+  color:white;
+  font-family:courier;
+  font-size:4vmin;
+  padding:3vh;
+}
+.head2{
+  padding:1vh;
+  margin-bottom:0vh;
+  font-size:8vmin;
+}
+/*container-fluid3 section*/
+.container-fluid3{
+  background:linear-gradient(to right,#bdc3c7,#2c3e50);
+  height:auto;
+  color:white;
+  font-family:courier;
+  font-size:4vmin;
+  padding:5vh;
+}  
+.courses{
+  margin-top:5vh;
+  color:black;
+  font-size:5vh;
+}
+.project{
+  margin-top:5vh;
+  color:black;
+  font-size:5vh;
+}
+
+/*container-fluid4 section*/
+.container-fluid4{
+  background:linear-gradient(to right,#00F260,#0575E6);
+  height:100vh;
+  color:black;
+  font-family:courier;
+  font-size:4vmin;
+  padding:5vh;
+}   
+/*------------------------/css file---------------------------------------*/       
+          
